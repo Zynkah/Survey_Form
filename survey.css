@@ -1,0 +1,35 @@
+body {
+    background-color: darkcyan;
+    color: mistyrose;;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+
+legend {
+    font-size: 20px;
+}
+
+input {
+    border-radius: 5px;
+    text-align: center;
+    background-color:mistyrose;
+}
+
+.survey-form {
+    width: 60%;
+    margin: auto;
+    padding: 5px;
+    text-align: center;
+    border-radius: 5px;
+}
+
+#submit-btn {
+    background-color: cadetblue;
+    color: mistyrose;;
+    padding: 5px;
+    margin: 5px;
+    width: 30%;
+}
